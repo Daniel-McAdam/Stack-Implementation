@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "week3StacksandQueues/1.0.0": {
+        "runtime": {
+          "week3StacksandQueues.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "week3StacksandQueues/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

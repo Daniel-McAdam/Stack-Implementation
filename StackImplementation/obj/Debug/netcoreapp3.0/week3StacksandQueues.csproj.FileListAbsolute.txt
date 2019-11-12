@@ -1,0 +1,22 @@
+C:\Users\ItsDa\Desktop\week3StacksandQueues\week3StacksandQueues\obj\Debug\netcoreapp3.0\week3StacksandQueues.csprojAssemblyReference.cache
+C:\Users\ItsDa\Desktop\week3StacksandQueues\week3StacksandQueues\obj\Debug\netcoreapp3.0\week3StacksandQueues.AssemblyInfoInputs.cache
+C:\Users\ItsDa\Desktop\week3StacksandQueues\week3StacksandQueues\obj\Debug\netcoreapp3.0\week3StacksandQueues.AssemblyInfo.cs
+C:\Users\ItsDa\Desktop\week3StacksandQueues\week3StacksandQueues\bin\Debug\netcoreapp3.0\week3StacksandQueues.exe
+C:\Users\ItsDa\Desktop\week3StacksandQueues\week3StacksandQueues\bin\Debug\netcoreapp3.0\week3StacksandQueues.deps.json
+C:\Users\ItsDa\Desktop\week3StacksandQueues\week3StacksandQueues\bin\Debug\netcoreapp3.0\week3StacksandQueues.runtimeconfig.json
+C:\Users\ItsDa\Desktop\week3StacksandQueues\week3StacksandQueues\bin\Debug\netcoreapp3.0\week3StacksandQueues.runtimeconfig.dev.json
+C:\Users\ItsDa\Desktop\week3StacksandQueues\week3StacksandQueues\bin\Debug\netcoreapp3.0\week3StacksandQueues.dll
+C:\Users\ItsDa\Desktop\week3StacksandQueues\week3StacksandQueues\bin\Debug\netcoreapp3.0\week3StacksandQueues.pdb
+C:\Users\ItsDa\Desktop\week3StacksandQueues\week3StacksandQueues\obj\Debug\netcoreapp3.0\week3StacksandQueues.dll
+C:\Users\ItsDa\Desktop\week3StacksandQueues\week3StacksandQueues\obj\Debug\netcoreapp3.0\week3StacksandQueues.pdb
+C:\Users\ItsDa\Desktop\week3 work\week3StacksandQueues\week3StacksandQueues\bin\Debug\netcoreapp3.0\week3StacksandQueues.exe
+C:\Users\ItsDa\Desktop\week3 work\week3StacksandQueues\week3StacksandQueues\bin\Debug\netcoreapp3.0\week3StacksandQueues.deps.json
+C:\Users\ItsDa\Desktop\week3 work\week3StacksandQueues\week3StacksandQueues\bin\Debug\netcoreapp3.0\week3StacksandQueues.runtimeconfig.json
+C:\Users\ItsDa\Desktop\week3 work\week3StacksandQueues\week3StacksandQueues\bin\Debug\netcoreapp3.0\week3StacksandQueues.runtimeconfig.dev.json
+C:\Users\ItsDa\Desktop\week3 work\week3StacksandQueues\week3StacksandQueues\bin\Debug\netcoreapp3.0\week3StacksandQueues.dll
+C:\Users\ItsDa\Desktop\week3 work\week3StacksandQueues\week3StacksandQueues\bin\Debug\netcoreapp3.0\week3StacksandQueues.pdb
+C:\Users\ItsDa\Desktop\week3 work\week3StacksandQueues\week3StacksandQueues\obj\Debug\netcoreapp3.0\week3StacksandQueues.csprojAssemblyReference.cache
+C:\Users\ItsDa\Desktop\week3 work\week3StacksandQueues\week3StacksandQueues\obj\Debug\netcoreapp3.0\week3StacksandQueues.AssemblyInfoInputs.cache
+C:\Users\ItsDa\Desktop\week3 work\week3StacksandQueues\week3StacksandQueues\obj\Debug\netcoreapp3.0\week3StacksandQueues.AssemblyInfo.cs
+C:\Users\ItsDa\Desktop\week3 work\week3StacksandQueues\week3StacksandQueues\obj\Debug\netcoreapp3.0\week3StacksandQueues.dll
+C:\Users\ItsDa\Desktop\week3 work\week3StacksandQueues\week3StacksandQueues\obj\Debug\netcoreapp3.0\week3StacksandQueues.pdb
